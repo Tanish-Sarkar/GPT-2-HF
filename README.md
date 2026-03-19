@@ -267,5 +267,5 @@ That's the only metric that matters at this stage.
 
 ---
 
-*Built by Tanish | 3rd year Computer Engineering | Rajkot, India*
+*Built by Tanish | 3rd year Computer Engineering 
 *Part of a series: understanding LLMs from the inside out*
